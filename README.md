@@ -1,2 +1,2 @@
 # Interface11
-Student Info
+Student Info (kinjal,komal)
